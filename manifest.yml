@@ -1,0 +1,4 @@
+applications:
+- name: cloudchat-demo
+  memory: 256M
+  instances: 1

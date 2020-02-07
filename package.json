@@ -1,0 +1,19 @@
+{
+  "name": "CloudChat",
+  "version": "0.0.1",
+  "description": "Our first chat app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-validator": "^5.1.2",
+    "socket.io": "^2.0.4",
+    "socket.io-stream": "^0.9.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
