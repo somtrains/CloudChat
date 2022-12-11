@@ -4,7 +4,7 @@
   "description": "Our first chat app",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-validator": "^5.1.2",
     "socket.io": "^2.0.4",
     "socket.io-stream": "^0.9.1",
